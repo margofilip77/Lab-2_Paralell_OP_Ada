@@ -11,7 +11,7 @@ procedure Main is
 
    task body MinElementSearchTask is
 
-      NumOfThreads  : constant Integer := 10;
+      NumOfThreads  : constant Integer := 4;
       NumOfElements : constant Integer := 100;
 
       ArrayOfElements : array (1 .. NumOfElements) of Integer;

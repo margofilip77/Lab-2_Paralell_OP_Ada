@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\Lenovo\Downloads\PcP-main\PcP-main\Lab2\Lab2PcP_Ada\synchronize.gpr
+20240405005148 8ca16c107df00335774d873ec7286056
+[BOUND OBJECT FILES]
+C:\Users\Lenovo\Downloads\PcP-main\PcP-main\Lab2\Lab2PcP_Ada\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\Lenovo\Downloads\PcP-main\PcP-main\Lab2\Lab2PcP_Ada\obj\
+-LC:\Users\Lenovo\Downloads\PcP-main\PcP-main\Lab2\Lab2PcP_Ada\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
